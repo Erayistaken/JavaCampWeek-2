@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="classes.CustomerManager"/>
+    <fullyQualifiedTypeName name="recapDemo_Classes.DortIslem"/>
+    <fullyQualifiedTypeName name="classesWithAttributes.ProductManager"/>
+    <fullyQualifiedTypeName name="methodOverloading.DortIslem"/>
+    <fullyQualifiedTypeName name="inheritance.Person"/>
+    <fullyQualifiedTypeName name="inheritance.Employee"/>
+    <fullyQualifiedTypeName name="inheritance.PersonManager"/>
+    <fullyQualifiedTypeName name="inheritance.EmployeeManager"/>
+    <fullyQualifiedTypeName name="inheritance.CustomerManager"/>
+    <fullyQualifiedTypeName name="inhreitanceDemo.KrediUI"/>
+    <fullyQualifiedTypeName name="inhreitanceDemo.OgretmenKrediManager"/>
+    <fullyQualifiedTypeName name="inhreitanceDemo.BaseKrediManager"/>
+    <fullyQualifiedTypeName name="inhreitanceDemo.TarimKrediManager"/>
+</qualifiedTypeNameHistroy>

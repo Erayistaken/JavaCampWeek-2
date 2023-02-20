@@ -1,0 +1,10 @@
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="recapDemo_Classes.DortIslem"><rhs name\="recapDemo_Classes.DortIslem"/></lhs><lhs name\="classesWithAttributes.ProductManager"><rhs name\="classesWithAttributes.ProductManager"/></lhs><lhs name\="methodOverloading.DortIslem"><rhs name\="methodOverloading.DortIslem"/></lhs><lhs name\="inheritance.Person"><rhs name\="inheritance.Employee"/></lhs><lhs name\="inheritance.Employee"><rhs name\="inheritance.Employee"/></lhs><lhs name\="inheritance.PersonManager"><rhs name\="inheritance.EmployeeManager"/><rhs name\="inheritance.CustomerManager"/></lhs><lhs name\="inheritance.EmployeeManager"><rhs name\="inheritance.EmployeeManager"/></lhs><lhs name\="inheritance.CustomerManager"><rhs name\="inheritance.CustomerManager"/></lhs><lhs name\="inhreitanceDemo.BaseKrediManager"><rhs name\="inhreitanceDemo.OgretmenKrediManager"/><rhs name\="inhreitanceDemo.TarimKrediManager"/></lhs><lhs name\="inhreitanceDemo.OgretmenKrediManager"><rhs name\="inhreitanceDemo.OgretmenKrediManager"/></lhs><lhs name\="inhreitanceDemo.KrediUI"><rhs name\="inhreitanceDemo.KrediUI"/></lhs></history>
+content_assist_number_of_computers=17
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+org.eclipse.jdt.ui.formatterprofiles.version=22
+spelling_locale_initialized=true
+typefilter_migrated_2=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true
